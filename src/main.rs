@@ -10,8 +10,9 @@ struct FileName {
 }
 
 impl FileName {
-    fn new(filename: String) -> FileName {
+    fn new(fn_inp: String) -> FileName {
         FileName {
+
             filename,
             fileextension,
             path,
@@ -20,20 +21,10 @@ impl FileName {
 }
 
 
-fn read_file_bytes(str::)
+// fn read_file_bytes(str::)
 
 
 fn main() {
 
-
-
-    // Command::new("cd")
-    //     .arg("cd /")
-    //     .spawn()
-    //     .expect("Failed to execute command");
-
-    // Command::new("ls")
-    //     .spawn()
-    //     .expect("Failed to LS");
 
 }
