@@ -6,4 +6,8 @@
 - hash file name
 - extremity levels in files
 
+<<<<<<< Updated upstream
 - makepad
+=======
+- makepad
+>>>>>>> Stashed changes
