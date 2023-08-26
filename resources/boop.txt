@@ -1,3 +1,7 @@
 File System
 
 https://doc.rust-lang.org/std/os/unix/fs/index.html
+
+
+make sure string is a file pathway
+check the file type against an enum
